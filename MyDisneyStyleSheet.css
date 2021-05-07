@@ -1,0 +1,188 @@
+img{
+   width :500px;
+}
+
+h1{
+	padding:50px;
+	text-align: center;
+}
+
+body {
+	background-color: LightBlue;
+}
+
+td{
+	font-size: 40px;
+	font-color: Red;
+}
+
+a:visited{
+	color:White;
+}
+
+
+
+#homepageBackGround {
+	background-color: LightBlue;
+}
+
+#homepageImg {
+	width : 500px;
+	height : 350px;
+	margin :15px;
+}
+
+
+#magicKingdomhomepage{
+	color: crimson;
+	font-size: 40px;
+	font-weight: bold;
+	font-weight: italic;
+	background-color: skyblue;
+	text-align: center;
+
+}
+
+#magicKingdomBackground {
+	color: crimson;
+	font-size: 28px;
+	font-weight: bold;
+	font-weight: italic;
+	background-color: skyblue;
+}
+
+#fontRides{
+	font-size: 25px;
+	color: indigo;
+}
+
+#ridesFont{
+	font-size: 40px;
+	color: crimson;
+	font-weight: bold;
+}
+
+#topRankings{
+	font-size: 20px;
+	background-color: crimson;
+	font-weight: bold;
+	color: white;
+}
+
+#epcotCountryThings{
+	font-size: 20px;
+	color: indigo;
+}
+
+#ridePhotos{
+	width: 250px;
+	text-align: center;
+}
+
+#epcotBackground {
+	color: white;
+	font-size: 28px;
+	font-weight: bold;
+	font-weight: italic;
+	background-color: lavender;
+}
+
+#epcotRides{
+	font-size: 25px;
+	color: indigo;
+}
+
+#epcotFont{
+	font-size: 40px;
+	color: midnightblue;
+	font-weight: bold;
+}
+
+#epcotTopRankings{
+	font-size: 20px;
+	background-color: lightblue;
+	font-weight: bold;
+	color: white;
+}
+
+
+
+#hollywoodBackground {
+	color: crimson;
+	font-size: 28px;
+	font-weight: bold;
+	font-weight: italic;
+	background-color: midnightblue;
+}
+
+#hollywoodRides{
+	font-size: 25px;
+	color: whitesmoke;
+}
+
+#hollywoodFont{
+	font-size: 40px;
+	color: whitesmoke;
+	font-weight: bold;
+}
+
+#hollywoodTopRankings{
+	font-size: 20px;
+	background-color: crimson;
+	font-weight: bold;
+	color: whitesmoke;
+}
+
+#worldShowcase{
+	color: whitesmoke;
+	font-size: 25px;
+	text-align: center;
+	background-color: lightblue;
+}
+
+
+#animalBackground {
+	color: teal;
+	font-size: 24px;
+	font-weight: bold;
+	font-weight: italic;
+	background-color: mediumaquamarine;
+}
+
+#animalRides{
+	font-size: 30px;
+	color: whitesmoke;
+}
+
+#animalFont{
+	font-size: 40px;
+	color: teal;
+	font-weight: bold;
+}
+
+#animalTopRankings{
+	font-size: 20px;
+	background-color: purple;
+	font-weight: bold;
+	color: whitesmoke;
+}
+
+#maps{
+	width: 250px;
+	text-align: center
+}
+
+
+#restaurantshomepage{
+	color: darkgoldenrod;
+	font-size: 40px;
+	font-weight: bold;
+	font-weight: italic;
+	background-color: darkred;
+	text-align: center;
+
+}	
+
+#restaurantscolor{
+	background-color: darkred;
+}
