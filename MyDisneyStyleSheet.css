@@ -23,13 +23,14 @@ a:visited{
 
 
 #homepageBackGround {
-	background-color: LightBlue;
+	background-color: firebrick;
 }
 
 #homepageImg {
-	width : 500px;
-	height : 350px;
-	margin :15px;
+	width : 642px;
+	height : 470px;
+	margin :10px;
+
 }
 
 
@@ -49,6 +50,7 @@ a:visited{
 	font-weight: bold;
 	font-weight: italic;
 	background-color: skyblue;
+	font-family: Garamond, serif;
 }
 
 #fontRides{
@@ -75,8 +77,9 @@ a:visited{
 }
 
 #ridePhotos{
-	width: 250px;
-	text-align: center;
+	width : 350px;
+	height : 200px;
+	margin :10px;
 }
 
 #epcotBackground {
@@ -85,6 +88,7 @@ a:visited{
 	font-weight: bold;
 	font-weight: italic;
 	background-color: lavender;
+	font-family: Garamond, serif;
 }
 
 #epcotRides{
@@ -112,7 +116,8 @@ a:visited{
 	font-size: 28px;
 	font-weight: bold;
 	font-weight: italic;
-	background-color: midnightblue;
+	background-color: indigo;
+	font-family: Garamond, serif;
 }
 
 #hollywoodRides{
@@ -140,6 +145,11 @@ a:visited{
 	background-color: lightblue;
 }
 
+#websitelinks{
+	font-size: 15px;
+	font-color: goldenrod;
+}
+
 
 #animalBackground {
 	color: teal;
@@ -147,6 +157,7 @@ a:visited{
 	font-weight: bold;
 	font-weight: italic;
 	background-color: mediumaquamarine;
+	font-family: Garamond, serif;
 }
 
 #animalRides{
@@ -168,8 +179,10 @@ a:visited{
 }
 
 #maps{
-	width: 250px;
-	text-align: center
+	width : 350px;
+	height : 200px;
+	margin :10px;
+
 }
 
 
@@ -184,5 +197,47 @@ a:visited{
 }	
 
 #restaurantscolor{
-	background-color: darkred;
+	background-color: lightblue;
 }
+
+#worldshowcase{
+	font-size: 20px;
+	color: indigo;
+}
+
+#mexico{
+	font-size: 30px;
+	color: white;
+	font-weight: bold;
+	font-weight: italic;
+}
+
+#homepagetitle{
+	font-size: 55px;
+	color: darkslateblue;
+	text-align: center;
+	font-weight: italic;
+	font-weight: bold;
+	background-color: lightblue;
+	font-family: Brush Script MT, cursive;
+}
+
+#picturetitles{
+	font-size: 20px;
+	color: white;
+	font-weight: italic;
+	font-weight: bold;
+}
+
+#epcotCountries{
+	font-size: 28px;
+	color: white;
+	background-color: indigo;
+
+
+
+
+
+
+
+
